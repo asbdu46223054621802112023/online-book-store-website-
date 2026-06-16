@@ -12,11 +12,7 @@
    Web Development 
 
      price ₹450
-      Buy now
-
-
-   
-     Data Science 
-    
-       price ₹600
-        Buy now
+      Buy now 
+    Data science 
+     price ₹600
+      Buy now 
