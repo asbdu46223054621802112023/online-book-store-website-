@@ -16,7 +16,6 @@
 
 
 
-
     Data science
 
      price ₹600
