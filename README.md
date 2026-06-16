@@ -15,7 +15,6 @@
       Buy now
 
 
-
     Data Science
 
      Price ₹600
