@@ -2,27 +2,19 @@
    
 
 
-   Python programming 
-
-      price ₹500
+   Python programming
+     price ₹500
        Buy now
 
 
 
    Web Development 
-
      price ₹450
       Buy now  
 
 
 
 
-
-
-
-
-
-    Data science 
-
+    Data science
      price ₹600
       Buy now 
