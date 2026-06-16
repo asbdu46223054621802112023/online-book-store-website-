@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Online Book Store</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+
+        h1 {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px;
+        }
+
+        .book {
+            background: white;
+            width: 250px;
+            margin: 20px auto;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 0 5px gray;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Online Book Store</h1>
+
+    <div class="book">
+        <h2>Python Programming</h2>
+        <p>Price: ₹500</p>
+        <button>Buy Now</button>
+    </div>
+
+    <div class="book">
+        <h2>Web Development</h2>
+        <p>Price: ₹450</p>
+        <button>Buy Now</button>
+    </div>
+
+    <div class="book">
+        <h2>Data Science</h2>
+        <p>Price: ₹600</p>
+        <button>Buy Now</button>
+    </div>
+
+</body>
+</html>
